@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.Rapp.history
+.RData
+.Rprofile
+
+
+[Tt]humbs.db
+*[Tt]humbs.db
+
+# Following used for development. Use Tred source for production
+inputs/*.rda
+
+
+
+
