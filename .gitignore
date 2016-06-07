@@ -11,6 +11,9 @@
 # Following used for development. Use Tred source for production
 inputs/*.rda
 
+# do not transfer the large XL files.
+outputs/*.xlsx
+
 
 
 

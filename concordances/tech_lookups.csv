@@ -1,0 +1,25 @@
+tech_type,main,sub,main_anzsic,sub_anzsic,sort
+high tech,Pharmaceutical and medicinal product manufacturing,Human pharmaceutical and medicinal product manufacturing,C184,C1841,5
+high tech,Pharmaceutical and medicinal product manufacturing,Veterninary pharmaceutical and medicinal product manufacturing,C184,C1842,6
+high tech,Aircraft manufacturing and repair services,Aircraft manufacturing and repair services,C2394,C2394,1
+high tech,Professional and scientific equipment manufacturing,"Photographic, optical and ophthalmic equipment manufacturing",C241,C2411,9
+high tech,Professional and scientific equipment manufacturing,Medical and surgical equipment manufacturing,C241,C2412,7
+high tech,Professional and scientific equipment manufacturing,"Other (e.g. global positioning systems, magnetic resonance imaging and radar)",C241,C2419,8
+high tech,Computer and electronic equipment manufacturing,Computer and electronic office equipment manufacturing,C242,C2421,3
+high tech,Computer and electronic equipment manufacturing,Communication equipment manufacturing,C242,C2422,2
+high tech,Computer and electronic equipment manufacturing,"Other (e.g. transistors, semi-conductors and circuit componentry)",C242,C2429,4
+medium tech,Basic chemical and chemical product manufacturing,Chemical manufacturing,C18,C181,11
+medium tech,Basic chemical and chemical product manufacturing,Basic polymer manufacturing,C18,C182,10
+medium tech,Basic chemical and chemical product manufacturing,Fertiliser and pesticide manufacturing,C18,C183,13
+medium tech,Basic chemical and chemical product manufacturing,Cleaning compound and toiletry preparation manufacturing,C18,C185,12
+medium tech,Basic chemical and chemical product manufacturing,Other basic chemical product manufacturing,C18,C189,14
+medium tech,Transport equipment manufacturing,Motor vehicle and motor vehicle part manufacturing,C23,C231,21
+medium tech,Machinery and equipment manufacturing,Electrical equipment manufacturing,C24,C243,16
+medium tech,Machinery and equipment manufacturing,Domestic appliance manufacturing,C24,C244,15
+medium tech,Machinery and equipment manufacturing,"Pump, compressor, heating and ventilation equipment manufacturing",C24,C245,18
+medium tech,Machinery and equipment manufacturing,Specialised machinery and equipment manufacturing,C24,C246,19
+medium tech,Machinery and equipment manufacturing,Other machinery and equipment manufacturing,C24,C249,17
+medium tech,Other,Other,C1915,C1915,20
+medium tech,Other,Other,C1916,C1916,20
+medium tech,Other,Other,C2393,C2393,20
+medium tech,Other,Other,C2399,C2399,20
